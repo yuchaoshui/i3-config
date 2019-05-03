@@ -1,0 +1,2 @@
+此目录用作手动自定义程序链接，比如：
+ln -s /opt/pro/leanote/Leanote $i3config/scripts/bin/
