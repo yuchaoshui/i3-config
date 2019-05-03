@@ -26,7 +26,6 @@ export PATH=$PATH:$i3config/scripts/bin
 
 ## 3、配置预览
 
-<center>
-![](https://raw.githubusercontent.com/yuchaoshui/static/master/i3-config/wallpaper.png)
-</center>
+<div align=center>![.](https://raw.githubusercontent.com/yuchaoshui/static/master/i3-config/wallpaper.png)
+
 
