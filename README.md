@@ -28,4 +28,11 @@ export PATH=$PATH:$i3config/scripts/bin
 
 ![desktop](https://raw.githubusercontent.com/yuchaoshui/static/master/i3-config/wallpaper.png)
 
+![terminals](https://raw.githubusercontent.com/yuchaoshui/static/master/i3-config/terminal.png)
+
+![floating](https://raw.githubusercontent.com/yuchaoshui/static/master/i3-config/floating.png)
+
+![statusbar](https://raw.githubusercontent.com/yuchaoshui/static/master/i3-config/barclick.png)
+
+![python_mode](https://raw.githubusercontent.com/yuchaoshui/static/master/i3-config/python-mode.png)
 
